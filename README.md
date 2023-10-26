@@ -76,9 +76,4 @@
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
-Alfattn 2023, Semoga bisa berjaya
-Facebook page
-Instagram page
-Twitter page
-GitHub account
-Dribbble account
+Entahlah, saya hanya senang bermain disini
