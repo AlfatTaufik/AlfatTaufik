@@ -37,8 +37,9 @@
 <p>
     <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AlfatTaufik&show_icons=true&count_private=true&theme=dark" />&nbsp;&nbsp;
     <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlfatTaufik&layout=compact&theme=dark" />&nbsp;&nbsp;
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=AlfatTaufik&theme=tokyo-night"/>
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="center">⚡Activity Graph:</h2>
+    <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=AlfatTaufik&theme=tokyo-night"/>
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlfatTaufik&theme=2077" height="180em" />
 </p>
 
 ## 🤝 My Contributions and [POAPs](https://www.gitpoap.io/p/0x994cca07c9f25fe84211ea61b61eab5552a32c6d):
@@ -57,6 +58,7 @@
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) &nbsp;
 ![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white) &nbsp;
 ![Crunchyroll](https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white)
+<a href="https://app.daily.dev/alfattaufiknurhidayat"><img src="https://api.daily.dev/devcards/9ffd48fa5a4b4a788e95eb5958684c8f.png?r=f27" width="400" alt="Alfat Taufik Nurhidayat's Dev Card"/></a>
 
 
 </div>
