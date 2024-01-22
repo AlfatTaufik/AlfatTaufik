@@ -1,11 +1,11 @@
 <div align="center">
 
-[![Hello World, I'm Jasper!](assets/header.gif)](https://github.com/kshyun28)
-Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on [Pinterest](https://www.pinterest.com/).
+[![An image of @alfattaufik's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/alfattaufik)](https://holopin.io/@alfattaufik)
+<h1 align="center">Halo Guys Alfat Disini</h1>
 
-[![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/kshyun28) &nbsp;
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jaspergabriel/) &nbsp;
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:jasper.d.gabriel@gmail.com?subject=Hello%20Jasper,%20From%20Github)
+[![Twitter/X](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/alfattaufik/) &nbsp;
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/alfat-nurhidayat-0831aa25b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) &nbsp;
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:alfatnurhidayatrevisi@gmail.com?subject=Hello%20Alfat,%20From%20Github)
 
 </div>
 
