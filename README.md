@@ -39,7 +39,7 @@
     <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlfatTaufik&layout=compact&theme=dark" />&nbsp;&nbsp;
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="center">⚡Activity Graph:</h2>
     <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=AlfatTaufik&theme=tokyo-night"/>
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlfatTaufik&theme=2077" height="180em" />
+
 </p>
 
 ## 🤝 My Contributions and [POAPs](https://www.gitpoap.io/p/0x994cca07c9f25fe84211ea61b61eab5552a32c6d):
