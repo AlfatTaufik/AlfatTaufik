@@ -9,8 +9,8 @@
 
 </div>
 
-- 🔭 I’m currently working at [P33R Finance](https://www.linkedin.com/company/p33r-finance/) where we were [incubated by Tenity](https://www.linkedin.com/posts/p33r-finance_tenity-invests-in-13-disruptive-early-stage-activity-7118550943268294656-cH__?utm_source=share&utm_medium=member_desktop) and selected for [AWS Startups Build Accelerator 2023](https://www.linkedin.com/posts/p33r-finance_p33r-awsbuildaccelerator-activity-7121072561857208320-U9f-?utm_source=share&utm_medium=member_desktop).
-- 🌱 I’m passionate about [serverless in AWS](https://aws.amazon.com/serverless/) and [Web3](https://ethereum.org/en/web3/).
+- 🔭 I’m currently A Student at [SMK N 1 Purwokerto](https://smkn1purwokerto.sch.id/)
+- 🌱 I’m passionate about [serverless in Dotnet, ML, C#](https://learn.microsoft.com/id-id/training/) and [Web Dev, UI/UX](https://dev-foralfat.pantheonsite.io/).
 - 📝 I’m aiming to write **one article per week** starting from November 2023.
 - 🏆 I'm striving to increase my [GitHub stats rating](#🏆-my-stats) by contributing to [open source](https://opensource.com/resources/what-open-source).
 - ⚡ Fun fact: I read books, play the piano, and sleep with my dog!
@@ -23,14 +23,13 @@
 
 ## 💻 My Tech Stack:
 
-[![Next.js, Svelte, Node.js, JavaScript, TypeScript, AWS, GCP, Solidity](https://skillicons.dev/icons?i=next,svelte,nodejs,js,ts,aws,gcp,solidity)](https://skillicons.dev)
+[![CSharp, .NET, Node.js, JavaScript, CSS, Figma, MySQL, Python?](https://skillicons.dev/icons?i=cs,dotnet,nodejs,js,css,figma,mysql,py)](https://skillicons.dev)
 
 ## 📖 Read My Blogs:
 
 <p>
-    <a target="_blank"href="https://dev.to/kshyun28"><img alt="dev.to" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /></a>&nbsp;&nbsp;
-    <a target="_blank"href="https://kshyun28.hashnode.dev/"><img alt="Hashnode" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>&nbsp;&nbsp;
-    <a target="_blank"href="https://medium.com/@kshyun28"><img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;
+    <a target="_blank"href="https://dev.to/alfattaufik"><img alt="dev.to" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /></a>&nbsp;&nbsp;
+    <a target="_blank"https://medium.com/@alfatnurhidayatrevisi"><img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;
 </p>
 
 ## 🏆 My Stats:
