@@ -13,7 +13,7 @@
 - 🌱 I’m passionate about [serverless in Dotnet, ML, C#](https://learn.microsoft.com/id-id/training/) and [Web Dev, UI/UX](https://dev-foralfat.pantheonsite.io/).
 - 📝 I’m aiming to write **one article per week** starting from November 2023.
 - 🏆 I'm striving to increase my [GitHub stats rating](#🏆-my-stats) by contributing to [open source](https://opensource.com/resources/what-open-source).
-- ⚡ Fun fact: I read books, play the piano, and sleep with my dog!
+- ⚡ Fun fact: I read books, play the piano, and sleeps!
 
 <div align="center">
 
