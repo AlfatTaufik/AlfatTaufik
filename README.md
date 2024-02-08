@@ -1,7 +1,7 @@
 <div align="center">
 
 [![An image of @alfattaufik's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/alfattaufik)](https://holopin.io/@alfattaufik)
-<h1 align="center">Halo Guys Alfat Disini</h1>
+<h1 align="center">Yes, Alfat Here</h1>
 
 [![Twitter/X](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/alfattaufik/) &nbsp;
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/alfat-nurhidayat-0831aa25b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) &nbsp;
@@ -10,10 +10,10 @@
 </div>
 
 - 🔭 I’m currently A Student at [SMK N 1 Purwokerto](https://smkn1purwokerto.sch.id/)
-- 🌱 I’m passionate about [serverless in Dotnet, ML, C#](https://learn.microsoft.com/id-id/training/) and [Web Dev, UI/UX](https://dev-foralfat.pantheonsite.io/).
+- 🌱 I’m passionate about [Dotnet, ML, C#](https://learn.microsoft.com/id-id/training/) and [Web Dev, UI/UX](https://dev-foralfat.pantheonsite.io/).
 - 📝 I’m aiming to write **one article per week** starting from November 2023.
 - 🏆 I'm striving to increase my [GitHub stats rating](#🏆-my-stats) by contributing to [open source](https://opensource.com/resources/what-open-source).
-- ⚡ Fun fact: I read books, play the piano, and sleeps!
+- ⚡ Other Things: I read books, play the piano, and sleeps!
 
 <div align="center">
 
