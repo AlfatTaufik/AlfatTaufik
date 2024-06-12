@@ -60,7 +60,7 @@
 ![Crunchyroll](https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white)
 
 ## 🎮 When I'm Bored:
-<a href="https://app.daily.dev/alfattaufiknurhidayat"><img src="https://api.daily.dev/devcards/9ffd48fa5a4b4a788e95eb5958684c8f.png?r=f27" width="400" alt="Alfat Taufik Nurhidayat's Dev Card"/></a>
+<<a href="https://app.daily.dev/yama15"><img src="https://api.daily.dev/devcards/v2/GfisdEhI1uZ95eUmJzpsa.png?type=wide&r=5e8" width="652" alt="Yama's Dev Card"/></a>
 
 
 </div>
