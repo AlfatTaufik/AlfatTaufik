@@ -23,7 +23,7 @@
 
 ## 💻 My Tech Stack:
 
-[![CSharp, .NET, Node.js, JavaScript, CSS, Figma, MySQL, Python?](https://skillicons.dev/icons?i=cs,dotnet,nodejs,js,css,figma,mysql,py)](https://skillicons.dev)
+[![CSharp, .NET, Node.js, JavaScript, CSS, Figma, MySQL,SQLServer Python?](https://skillicons.dev/icons?i=cs,dotnet,nodejs,js,css,figma,mysql,py)](https://skillicons.dev)
 
 ## 📖 Read My Blogs:
 
