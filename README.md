@@ -13,7 +13,7 @@
 - 🌱 I’m passionate about [Dotnet, ML(Python), C#](https://learn.microsoft.com/id-id/training/) and [Web Dev, UI/UX](https://dev-foralfat.pantheonsite.io/).
 - 📝 I’m aiming to read **one article per week** starting from November 2023.
 - 🏆 I'm striving to increase my [GitHub stats rating](#🏆-my-stats) by contributing to [open source](https://opensource.com/resources/what-open-source).
-- ⚡ Other Things: I read books, play the piano, and sleeps!
+- ⚡ Other Things: I read books, play the piano, and sleeps of course!
 
 <div align="center">
 
