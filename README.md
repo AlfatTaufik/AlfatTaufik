@@ -1,6 +1,6 @@
 <div align="center">
 
-[![An image of @alfattaufik's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/alfattaufik)](https://holopin.io/@alfattaufik)
+[![An image of @alfattaufik's Holopin badges, which is a link to view their full Holopin profiles](https://holopin.me/alfattaufik)](https://holopin.io/@alfattaufik)
 <h1 align="center">Sehr Interessant!</h1>
 
 [![Twitter/X](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/alfattaufik/) &nbsp;
